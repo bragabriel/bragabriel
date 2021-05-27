@@ -15,7 +15,7 @@
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary><br>
 
-### - Languages and Tools:
+#### - Languages and Tools:
 <p align="center"><br>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,7 @@
 </p>
 <br>
   
-### - My statistics:
+#### - My statistics:
 <p align="center">
   <a href="https://github.com/bragabriel/github-readme-stats">
     <img
