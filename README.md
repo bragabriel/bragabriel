@@ -36,14 +36,11 @@
 <br>
   
 #### - My statistics:
-<p align="center">
+<p align="center">  
   <a href="https://github.com/bragabriel/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=bragabriel&show_icons=true&theme=onedark"
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=bragabriel&theme=onedark">
   <a href="https://github.com/bragabriel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bragabriel&layout=compact&theme=onedark"
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bragabriel&theme=onedark&layout=compact">
 </a>
   </a>
 </p>
