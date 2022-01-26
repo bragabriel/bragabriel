@@ -2,9 +2,11 @@
 
 <p align="center">
   <samp>
-    I'm Gabriel Braga :wave: <br><br>
-    I am motivated and fascinated for technology and innovation, I am currently doing a bachelor's degree in Information Systems.<br><br>
-    PS: I love :pizza: and wine! <br><br>
+    I'm Gabriel Braga :wave: <br><br><br>
+    I am motivated and fascinated for technology and innovation, <br><br>
+    I'm currently work as an <strong><em>IT Assistant</strong> (dev)</em> at :point_right: <a href="https://cadastra.com/pt/">Cadastra</a>.<br><br>
+    And also I am currently doing a :mortar_board: bachelor's degree in <strong>Information Systems. :computer:</strong>  <br><br> <br>
+    PS: I <mark>love<mark> :pizza: and wine! <br><br>
     Brazil :earth_americas:
   </samp>
 </p>
