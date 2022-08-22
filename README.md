@@ -7,17 +7,16 @@
     -> I am currently doing a :mortar_board: bachelor's degree in <strong>Information Systems. :computer:</strong>  <br><br> <br>
     PS: I <mark>love<mark> :pizza: and wine! <br><br>
     Brazil :earth_americas:
+    <br><br><br>
   </samp>
 </p>
 
 <div align="center">
 
-
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bragabriel.visitor-badge&left_text=Visitors&right_color=lightgrey&left_color=blue)
   
   ![GitHub User's stars](https://img.shields.io/github/stars/bragabriel?color=%23ff69b4&logoColor=blue&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
   ![GitHub followers](https://img.shields.io/github/followers/bragabriel?logoColor=blue&style=social)
-
 
 </div>
 
