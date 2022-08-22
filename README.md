@@ -4,12 +4,22 @@
   <samp>
     I'm Gabriel Braga :wave: <br><br><br>
     I am motivated and fascinated for technology and innovation, <br><br>
-    I'm currently work as an <strong><em>IT Assistant</strong> (dev)</em> at :point_right: <a href="https://cadastra.com/pt/">Cadastra</a>.<br><br>
-    And also I am currently doing a :mortar_board: bachelor's degree in <strong>Information Systems. :computer:</strong>  <br><br> <br>
+    -> I am currently doing a :mortar_board: bachelor's degree in <strong>Information Systems. :computer:</strong>  <br><br> <br>
     PS: I <mark>love<mark> :pizza: and wine! <br><br>
     Brazil :earth_americas:
   </samp>
 </p>
+
+<div align="center">
+
+
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bragabriel.visitor-badge&left_text=Visitors&right_color=lightgrey&left_color=blue)
+  
+  ![GitHub User's stars](https://img.shields.io/github/stars/bragabriel?color=%23ff69b4&logoColor=blue&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+  ![GitHub followers](https://img.shields.io/github/followers/bragabriel?logoColor=blue&style=social)
+
+
+</div>
 
 <br>
 
@@ -20,10 +30,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
@@ -60,8 +70,8 @@
 <p align="center">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
