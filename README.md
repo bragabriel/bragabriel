@@ -22,7 +22,7 @@
 
 <br>
 
-### - Languages and Tools that I use/learning frequently:
+### - Languages and Tools that I'm using/learning frequently:
   
 <p align="center"><br>
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
