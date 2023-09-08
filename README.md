@@ -5,8 +5,8 @@
     I'm Gabriel Braga :wave: <br><br><br>
     I am motivated and fascinated for technology and innovation, <br><br>
     -> I am currently doing a :mortar_board: bachelor's degree in <strong>Information Systems, :computer:</strong>  <br><br>
-    And also, I'm a Software Engineer Intern. :star_struck: <br><br> <br>
-    PS: I <mark>love<mark> :pizza: and wine! <br><br>
+    I'm certificate in 'Internet Computing', and work as a Software Engineer. :star_struck: <br><br> <br>
+    PS: I <mark>love<mark> :coffee:, gym, and nerd things :nerd_face: <br><br>
     Brazil :earth_americas:
     <br><br><br>
   </samp>
