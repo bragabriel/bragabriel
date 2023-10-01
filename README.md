@@ -1,20 +1,21 @@
 ![readmeGif](https://user-images.githubusercontent.com/72152596/119749812-46e49e80-be6e-11eb-9bb7-c55121cbd12f.gif)
 
 <h2 align="center">
-  <samp>
     I'm Gabriel Braga :wave: <br><br><br>
-    I am motivated and fascinated for technology and innovation, <br><br>
+</h2>
+<p align="center">
+   I am motivated and fascinated for technology and innovation, <br><br>
     -> I am currently doing a :mortar_board: bachelor's degree in <strong>Information Systems, :computer:</strong>  <br><br>
     I'm certificate in 'Internet Computing', and work as a Software Engineer. :star_struck: <br><br> <br>
     PS: I <mark>love<mark> :coffee:, gym, and nerd things :nerd_face: <br><br>
     Brazil :earth_americas:
     <br><br><br>
-  </samp>
 </p>
+   
 
 <div align="center">
 
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bragabriel.visitor-badge&left_text=Visitors&right_color=lightgrey&left_color=blue)
+  [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bragabriel.visitor-badge)](https://visitor-badge.laobi.icu/badge?page_id=bragabriel.visitor-badge)
   
   ![GitHub User's stars](https://img.shields.io/github/stars/bragabriel?color=%23ff69b4&logoColor=blue&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
   ![GitHub followers](https://img.shields.io/github/followers/bragabriel?logoColor=blue&style=social)
@@ -104,12 +105,8 @@
 <h3 align="center">How to reach me? :speech_balloon:</h3>  
 <br>
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:gabriel.bragasilva@hotmail.com">
-        <img height="30" src="https://img.shields.io/badge/gmail-D14836?&" style="for-the-badge&logo=gmail&logoColor=white" link="mailto:gabriel.bragasilva@hotmail.com">
-    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gabriel-braga-da-silva/">
         <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?" style="for-the-badge&logo=linkedin&logoColor=white" link="mailto:https://www.linkedin.com/in/gabriel-braga-da-silva-14743b1b8/">
     </a>
- </p>
+</p>
