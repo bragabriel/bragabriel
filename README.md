@@ -5,8 +5,8 @@
 </h2>
 <p align="center">
    I am motivated and fascinated for <b>technology</b> and <b>innovation</b>, <br><br>
-    -> I am currently doing a :mortar_board: <b>bachelor's degree</b> in <strong>Information Systems, :computer:</strong>  <br><br>
-    Also, I'm <b>certified</b> as a <b>computer technician</b>, and work as a <b>Software Engineer</b>. :star_struck: <br><br> <br>
+    ➱ I am currently doing a :mortar_board: <b>bachelor's degree</b> in <strong>Information Systems, :computer:</strong>  <br><br>
+    Also, I'm <b>certified</b> ✔️ as a <b>computer technician</b>, and work as a <b>Software Engineer</b>. :star_struck: <br><br> <br>
     PS: I <mark>love<mark> :coffee:, gym, and nerd things :nerd_face: <br><br>
     Brazil :earth_americas:
     <br><br><br>
