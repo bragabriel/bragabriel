@@ -7,8 +7,8 @@
    I am motivated and fascinated for <b>technology</b> and <b>innovation</b>, <br><br>
     ➱ Graduated <b>(Bachelor)</b> in <strong>Information Systems :computer: </strong>  <br>
     Also, I'm <b>certified</b> ✔️ as a <b>computer technician</b>, and <b>Software Engineer</b>. :star_struck: <br><br>
-    My main stack is <b>Java</b>, <b>Spring</b> and <b>AWS</b> <br><br> <br>
-    PS: I <mark>love<mark> :coffee:, gym, and nerd things :nerd_face: <br><br>
+    <mark>My main stack is <b>Java</b>, <b>Spring</b> and <b>AWS</b></mark> <br><br> <br>
+    PS: I love :coffee:, gym, and nerd things :nerd_face: <br><br>
     Brazil :earth_americas:
     <br><br><br>
 </p>
