@@ -1,35 +1,30 @@
 ![readmeGif](https://user-images.githubusercontent.com/72152596/119749812-46e49e80-be6e-11eb-9bb7-c55121cbd12f.gif)
 
-<h2 align="center">
-    I'm Gabriel Braga :wave: <br><br><br>
-</h2>
+<h2 align="center"> I'm Gabriel Braga :wave: <br><br> </h2>
+
 <p align="center">
-    I am motivated and fascinated for <b>technology</b> and <b>innovation</b>, <br><br>
-    ➱ Graduated <i>(Bachelor)</i> in <strong>Information Systems :computer: </strong>  <br>
-    - also hold a technical degree in <b>Internet Computing</b> <i>(Vocational Diploma)</i> ✔️<br>
-    - and currently work as a back-end <b>Software Engineer</b>. :star_struck: <br><br>
-    <mark>My main stack is <b>Java</b>, <b>Spring</b> and <b>AWS</b></mark> <br><br> <br>
-    PS: I love :coffee:, gym, and nerd things :nerd_face: <br><br>
-    Brazil :earth_americas:
-    <br><br><br>
+  💻 Back-end Software Engineer | Brazil<br>
+  ☕ Coffee lover | 🏋️ Gym rat | 🎬 Series binge-watcher <br>
+  🎓 BSc in Information Systems | 🔧 Tech degree in Internet Computing <br><br>
+  🔥 Java + Spring + AWS <br>
+  💡 I love bringing ideas to life through code <br><br>
+  📹 Sharing dev content on <a href="https://www.youtube.com/@gabrielbragadev" target="_blank">YouTube</a> and <a href="https://twitter.com/bragabriel_dev" target="_blank">Twitter</a>
 </p>
-   
 
-<div align="center">
+<div align="center"> <br>
 
-  [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bragabriel.visitor-badge)](https://visitor-badge.laobi.icu/badge?page_id=bragabriel.visitor-badge)
-  
-  ![GitHub User's stars](https://img.shields.io/github/stars/bragabriel?color=%23ff69b4&logoColor=blue&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
-  ![GitHub followers](https://img.shields.io/github/followers/bragabriel?logoColor=blue&style=social)
+[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bragabriel.visitor-badge)](https://visitor-badge.laobi.icu/badge?page_id=bragabriel.visitor-badge)
+
+![GitHub User's stars](https://img.shields.io/github/stars/bragabriel?color=%23ff69b4&logoColor=blue&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/bragabriel?logoColor=blue&style=social) <br><br>
 
 </div>
 
-<br>
+<details> 
+  <summary> <b>Extra!</b> <i>(click to expand!)</i> </summary><br>
 
-### - Languages, Frameworks, and Tools I frequently use
-
-<p align="center"><br>
-
+#### - 🚀 Tech Stack I Use Daily
+<p align="center">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -72,36 +67,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br><br>
 
-<details>
-  <summary> <b>Extra!</b> <i>(click to expand!)</i> </summary><br>
-
-#### - Technologies I've used:
-<p align="center">
-    
-<img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
 
 </p>
@@ -109,7 +75,7 @@
 #### - My statistics:
 <p align="center">  
   <a href="https://github.com/bragabriel/github-readme-stats">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=bragabriel&theme=onedark"></a> <br><br>
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=bragabriel&theme=onedark&rank_icon=github"></a> <br><br>
   <a href="https://github.com/bragabriel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bragabriel&theme=onedark&layout=compact&langs_count=10">
   </a> <br><br>
@@ -118,12 +84,21 @@
 </details>
 
 ---
+
 <br>
-<h3 align="center">How to reach me? :speech_balloon:</h3>  
+<h3 align="center">How to reach me? 💬</h3>  
 <br>
+
 <p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/gabriel-braga-da-silva/">
-        <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?" style="for-the-badge&logo=linkedin&logoColor=white" link="mailto:https://www.linkedin.com/in/gabriel-braga-da-silva-14743b1b8/">
-    </a>
+  <a href="https://www.linkedin.com/in/gabriel-braga-da-silva/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/bragabriel_dev" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@gabrielbragadev" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
