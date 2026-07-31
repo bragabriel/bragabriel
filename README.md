@@ -1,4 +1,4 @@
-![readmeGif](./assets/header.gif)
+![readmeGif](./assets/header-intro.gif)
 
 <h3 align="center"> I'm Gabriel Braga :wave: <br><br> </h3>
 
