@@ -1,10 +1,10 @@
 ![readmeGif](https://user-images.githubusercontent.com/72152596/119749812-46e49e80-be6e-11eb-9bb7-c55121cbd12f.gif)
 
-<h2 align="center"> I'm Gabriel Braga :wave: </h2>
+<h3 align="center"> I'm Gabriel Braga :wave: </h3>
 
 <p align="center">
   <a href="https://github.com/bragabriel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=460&color=E4BF7A&lines=Back-end+Software+Engineer;Java+%2B+Spring+%2B+AWS;Bringing+ideas+to+life+through+code" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=460&color=58A6FF&lines=Back-end+Software+Engineer;Java+%2B+Spring+%2B+AWS;Bringing+ideas+to+life+through+code" alt="Typing animation">
   </a>
 </p>
 
