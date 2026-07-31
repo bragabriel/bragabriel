@@ -1,9 +1,10 @@
 ![readmeGif](https://user-images.githubusercontent.com/72152596/119749812-46e49e80-be6e-11eb-9bb7-c55121cbd12f.gif)
 
-<h3 align="center"> I'm Gabriel Braga :wave: </h3>
+<h3 align="center"> I'm Gabriel Braga :wave: <br><br> </h3>
 
 <p align="center">
   <img src="./assets/typing.svg" alt="Back-end Software Engineer | Java + Spring + AWS | Bringing ideas to life through code">
+  <br><br>
 </p>
 
 <p align="center">
