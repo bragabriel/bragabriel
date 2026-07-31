@@ -3,9 +3,7 @@
 <h3 align="center"> I'm Gabriel Braga :wave: </h3>
 
 <p align="center">
-  <a href="https://github.com/bragabriel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=460&color=58A6FF&lines=Back-end+Software+Engineer;Java+%2B+Spring+%2B+AWS;Bringing+ideas+to+life+through+code" alt="Typing animation">
-  </a>
+  <img src="./assets/typing.svg" alt="Back-end Software Engineer | Java + Spring + AWS | Bringing ideas to life through code">
 </p>
 
 <p align="center">
