@@ -8,7 +8,7 @@
   🎓 BSc in Information Systems | 🔧 Tech degree in Internet Computing <br><br>
   🔥 Java + Spring + AWS <br>
   💡 I love bringing ideas to life through code <br><br>
-  📹 Sharing dev content on <a href="https://www.youtube.com/@gabrielbragadev" target="_blank">YouTube</a> and <a href="https://twitter.com/bragabriel_dev" target="_blank">Twitter</a>
+  📹 Sharing dev content on <a href="https://www.youtube.com/@gabrielbragadev" target="_blank">YouTube</a>, <a href="https://www.instagram.com/gabrielbraga.dev/" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@gbraga_dev" target="_blank">TikTok</a>
 </p>
 
 <div align="center"> <br>
@@ -100,5 +100,13 @@
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@gabrielbragadev" target="_blank">
     <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/gabrielbraga.dev/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@gbraga_dev" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
 </p>
