@@ -13,6 +13,7 @@
   🎓 BSc in Information Systems | Tech degree in Internet Computing <br><br>
   🔥 Java + Spring + AWS <br>
   💡 I love bringing ideas to life through code <br><br>
+  🌐 More about me at <a href="https://gabrielbraga.dev" target="_blank">gabrielbraga.dev</a> <br><br>
   Sharing dev content on <a href="https://www.youtube.com/@gabrielbragadev" target="_blank">YouTube</a>, <a href="https://www.instagram.com/gabrielbraga.dev/" target="_blank">Instagram</a> and <a href="https://www.tiktok.com/@gbraga_dev" target="_blank">TikTok</a>
 </p>
 
@@ -62,6 +63,10 @@
 <br>
 
 <p align="center">
+  <a href="https://gabrielbraga.dev" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Website-1E1E2E?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-braga-da-silva/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
