@@ -1,6 +1,7 @@
 ![readmeGif](./assets/header-intro.gif)
 
-<h3 align="center"> I'm Gabriel Braga :wave: <br><br> </h3>
+<h1 align="center"> I'm Gabriel Braga :wave: </h1>
+<br>
 
 <p align="center">
   <img src="./assets/typing.svg" alt="Back-end Software Engineer | Java + Spring + AWS | Bringing ideas to life through code">
@@ -29,7 +30,7 @@
 <details> 
   <summary> <b>Extra!</b> <i>(click to expand!)</i> </summary><br>
 
-#### - 🚀 Tech Stack I Use Daily
+### Tech stack I use daily
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,kafka,aws" alt="Java, Spring, Gradle, MySQL, Kafka, AWS"> <br><br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,grafana,git,github" alt="Docker, Kubernetes, Jenkins, Grafana, Git, GitHub"> <br><br>
@@ -43,7 +44,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver">
 </p>
 
-#### - My statistics:
+### My statistics
 <p align="center">  
   <a href="https://github.com/bragabriel/github-readme-stats">
     <img align="center" height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=bragabriel&theme=onedark&rank_icon=github"></a> <br><br>
@@ -56,10 +57,8 @@
 
 </details>
 
----
-
 <br>
-<h3 align="center">How to reach me? 💬</h3>  
+<h2 align="center">How to reach me? 💬</h2>
 <br>
 
 <p align="center">
